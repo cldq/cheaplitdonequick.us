@@ -1,0 +1,10 @@
+{
+  "page_name": "my-new-page",
+  "title": "My New Page",
+  "summary": "My summary.",
+  "draft": "yes",
+  "publish_on": "2038-01-19",
+  "comments": "no",
+  "subscribe_form": "no",
+  "template": "base.html",
+}

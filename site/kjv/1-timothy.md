@@ -1,0 +1,196 @@
+---
+title: "The First Epistle of Paul the Apostle to Timothy"
+---
+
+<ul class="nav my-3">
+  <li class="nav-item"><a class="nav-link" href="./2-thessalonians.html">2 Thessalonians</a></li>
+  <li class="nav-item"><a class="nav-link" href="./">Table of Contents</a></li>
+  <li class="nav-item"><a class="nav-link" href="./2-timothy.html">2 Timothy</a></li>
+</ul>
+
+<h2 id="introduction">Introduction</h2>
+
+The design of the epistle appears to be, that Timothy having been left at Ephesus, St. Paul wrote to instruct him in the choice of proper officers in the church, as well as in the exercise of a regular ministry. Also, to caution against the influence of false teachers, who by subtle distinctions and endless disputes, corrupted the purity and simplicity of the gospel. He presses upon him constant regard to the greatest diligence, faithfulness, and zeal. These subjects occupy the first four chapters; the fifth chapter instructs respecting particular classes; in the latter part, controversies and disputes are condemned, the love of money blamed, and the rich exhorted to good works.
+
+-----
+
+
+
+## Contents
+
+- [Greeting; Instructions for Timothy in Ephesus](#greeting-9) (1 Timothy 1:1–2) — The apostle salutes Timothy. The design of the law as given by Moses.
+- [Paul’s Thankfulness for the Mercy Shown to Him](#pauls-thankfulness-for-the-mercy-shown-to-him) (1 Timothy 1:12–17) — Of his own conversion and call to the apostleship.
+- [Paul’s Charge to Timothy](#pauls-charge-to-timothy) (1 Timothy 1:18–20) — The obligation to maintain faith and a good conscience.
+- [Instructions to Pray for All People; Instructions for Women](#instructions-to-pray-for-all-people) (1 Timothy 2:1–8) — Prayer to be made for all persons, since the grace of the gospel makes no difference of ranks or stations. How men and women ought to behave, both in their religious and common life.
+- [Qualifications for Overseers](#qualifications-for-overseers) (1 Timothy 3:1–7) — The qualifications and behaviour of gospel bishops.
+- [Qualifications for Deacons](#qualifications-for-deacons) (1 Timothy 3:8–13) — And of deacons and their wives.
+- [The Mystery of Godliness Described](#the-mystery-of-godliness-described) (1 Timothy 3:14–16) — The reason of writing about these, and other church affairs.
+- [The Coming Apostasy](#the-coming-apostasy) (1 Timothy 4:1–5) — Of departures from the faith that began already to appear.
+- [The Good Servant of Christ](#the-good-servant-of-christ) (1 Timothy 4:6–16) — Several directions, with motives for due discharge of duties.
+- [Instructions About Widows](#instructions-about-widows) (1 Timothy 5:1–16) — Directions as to the elder and younger men and women. And as to poor widows. Concerning widows.
+- [Honoring Worthy Elders and Dealing With Sinners](#honoring-worthy-elders-and-dealing-with-sinners) (1 Timothy 5:17–25) — The respect to be paid to elders. Timothy is to take care in rebuking offenders, in ordaining ministers, and as to his own health.
+- [Slaves and Masters; False Teachers and the Love of Money](#slaves-and-masters-1) (1 Timothy 6:1–2) — The duty of Christians towards believing, as well as other masters. The advantage of godliness with contentment.
+- [Renewed Charge to Timothy](#renewed-charge-to-timothy) (1 Timothy 6:11–16) — A solemn charge to Timothy to be faithful.
+- [Instructions to the Rich; Final Charge and Benediction](#instructions-to-the-rich) (1 Timothy 6:17–19) — The apostle repeats his warning to the rich, and closes with a blessing.
+
+-----
+
+<h2 class="heading" id="greeting-9">Greeting; Instructions for Timothy in Ephesus <a class="marker" href="#greeting-9">¶</a></h2>
+
+<h4 class="passage">1 Timothy 1:1–2</h4>
+
+<h5 class="themes">The apostle salutes Timothy. The design of the law as given by Moses.</h5>
+
+<p>Paul, an apostle of Jesus Christ by the commandment of God our Saviour, and Lord Jesus Christ, which is our hope; Unto Timothy, my own son in the faith: Grace, mercy, and peace, from God our Father and Jesus Christ our Lord.</p>
+
+<p>As I besought thee to abide still at Ephesus, when I went into Macedonia, that thou mightest charge some that they teach no other doctrine, Neither give heed to fables and endless genealogies, which minister questions, rather than godly edifying which is in faith: so do. Now the end of the commandment is charity out of a pure heart, and of a good conscience, and of faith unfeigned: From which some having swerved have turned aside unto vain jangling; Desiring to be teachers of the law; understanding neither what they say, nor whereof they affirm. But we know that the law is good, if a man use it lawfully; Knowing this, that the law is not made for a righteous man, but for the lawless and disobedient, for the ungodly and for sinners, for unholy and profane, for murderers of fathers and murderers of mothers, for manslayers, For whoremongers, for them that defile themselves with mankind, for menstealers, for liars, for perjured persons, and if there be any other thing that is contrary to sound doctrine; According to the glorious gospel of the blessed God, which was committed to my trust. And I thank Christ Jesus our Lord, who hath enabled me, for that he counted me faithful, putting me into the ministry; Who was before a blasphemer, and a persecutor, and injurious: but I obtained mercy, because I did it ignorantly in unbelief. And the grace of our Lord was exceeding abundant with faith and love which is in Christ Jesus. This is a faithful saying, and worthy of all acceptation, that Christ Jesus came into the world to save sinners; of whom I am chief. Howbeit for this cause I obtained mercy, that in me first Jesus Christ might shew forth all longsuffering, for a pattern to them which should hereafter believe on him to life everlasting. Now unto the King eternal, immortal, invisible, the only wise God, be honour and glory for ever and ever. Amen. This charge I commit unto thee, son Timothy, according to the prophecies which went before on thee, that thou by them mightest war a good warfare; Holding faith, and a good conscience; which some having put away concerning faith have made shipwreck: Of whom is Hymenaeus and Alexander; whom I have delivered unto Satan, that they may learn not to blaspheme.</p>
+
+<h2 class="heading" id="pauls-thankfulness-for-the-mercy-shown-to-him">Paul’s Thankfulness for the Mercy Shown to Him <a class="marker" href="#pauls-thankfulness-for-the-mercy-shown-to-him">¶</a></h2>
+
+<h4 class="passage">1 Timothy 1:12–17</h4>
+
+<h5 class="themes">Of his own conversion and call to the apostleship.</h5>
+
+<p>As I besought thee to abide still at Ephesus, when I went into Macedonia, that thou mightest charge some that they teach no other doctrine, Neither give heed to fables and endless genealogies, which minister questions, rather than godly edifying which is in faith: so do. Now the end of the commandment is charity out of a pure heart, and of a good conscience, and of faith unfeigned: From which some having swerved have turned aside unto vain jangling; Desiring to be teachers of the law; understanding neither what they say, nor whereof they affirm. But we know that the law is good, if a man use it lawfully; Knowing this, that the law is not made for a righteous man, but for the lawless and disobedient, for the ungodly and for sinners, for unholy and profane, for murderers of fathers and murderers of mothers, for manslayers, For whoremongers, for them that defile themselves with mankind, for menstealers, for liars, for perjured persons, and if there be any other thing that is contrary to sound doctrine; According to the glorious gospel of the blessed God, which was committed to my trust. And I thank Christ Jesus our Lord, who hath enabled me, for that he counted me faithful, putting me into the ministry; Who was before a blasphemer, and a persecutor, and injurious: but I obtained mercy, because I did it ignorantly in unbelief. And the grace of our Lord was exceeding abundant with faith and love which is in Christ Jesus. This is a faithful saying, and worthy of all acceptation, that Christ Jesus came into the world to save sinners; of whom I am chief. Howbeit for this cause I obtained mercy, that in me first Jesus Christ might shew forth all longsuffering, for a pattern to them which should hereafter believe on him to life everlasting. Now unto the King eternal, immortal, invisible, the only wise God, be honour and glory for ever and ever. Amen. This charge I commit unto thee, son Timothy, according to the prophecies which went before on thee, that thou by them mightest war a good warfare; Holding faith, and a good conscience; which some having put away concerning faith have made shipwreck: Of whom is Hymenaeus and Alexander; whom I have delivered unto Satan, that they may learn not to blaspheme.</p>
+
+<h2 class="heading" id="pauls-charge-to-timothy">Paul’s Charge to Timothy <a class="marker" href="#pauls-charge-to-timothy">¶</a></h2>
+
+<h4 class="passage">1 Timothy 1:18–20</h4>
+
+<h5 class="themes">The obligation to maintain faith and a good conscience.</h5>
+
+<p>As I besought thee to abide still at Ephesus, when I went into Macedonia, that thou mightest charge some that they teach no other doctrine, Neither give heed to fables and endless genealogies, which minister questions, rather than godly edifying which is in faith: so do. Now the end of the commandment is charity out of a pure heart, and of a good conscience, and of faith unfeigned: From which some having swerved have turned aside unto vain jangling; Desiring to be teachers of the law; understanding neither what they say, nor whereof they affirm. But we know that the law is good, if a man use it lawfully; Knowing this, that the law is not made for a righteous man, but for the lawless and disobedient, for the ungodly and for sinners, for unholy and profane, for murderers of fathers and murderers of mothers, for manslayers, For whoremongers, for them that defile themselves with mankind, for menstealers, for liars, for perjured persons, and if there be any other thing that is contrary to sound doctrine; According to the glorious gospel of the blessed God, which was committed to my trust. And I thank Christ Jesus our Lord, who hath enabled me, for that he counted me faithful, putting me into the ministry; Who was before a blasphemer, and a persecutor, and injurious: but I obtained mercy, because I did it ignorantly in unbelief. And the grace of our Lord was exceeding abundant with faith and love which is in Christ Jesus. This is a faithful saying, and worthy of all acceptation, that Christ Jesus came into the world to save sinners; of whom I am chief. Howbeit for this cause I obtained mercy, that in me first Jesus Christ might shew forth all longsuffering, for a pattern to them which should hereafter believe on him to life everlasting. Now unto the King eternal, immortal, invisible, the only wise God, be honour and glory for ever and ever. Amen. This charge I commit unto thee, son Timothy, according to the prophecies which went before on thee, that thou by them mightest war a good warfare; Holding faith, and a good conscience; which some having put away concerning faith have made shipwreck: Of whom is Hymenaeus and Alexander; whom I have delivered unto Satan, that they may learn not to blaspheme.</p>
+
+<h2 class="heading" id="instructions-to-pray-for-all-people">Instructions to Pray for All People; Instructions for Women <a class="marker" href="#instructions-to-pray-for-all-people">¶</a></h2>
+
+<h4 class="passage">1 Timothy 2:1–8</h4>
+
+<h5 class="themes">Prayer to be made for all persons, since the grace of the gospel makes no difference of ranks or stations. How men and women ought to behave, both in their religious and common life.</h5>
+
+<p>I exhort therefore, that, first of all, supplications, prayers, intercessions, and giving of thanks, be made for all men; For kings, and for all that are in authority; that we may lead a quiet and peaceable life in all godliness and honesty. For this is good and acceptable in the sight of God our Saviour; Who will have all men to be saved, and to come unto the knowledge of the truth. For there is one God, and one mediator between God and men, the man Christ Jesus; Who gave himself a ransom for all, to be testified in due time. Whereunto I am ordained a preacher, and an apostle, (I speak the truth in Christ, and lie not;) a teacher of the Gentiles in faith and verity. I will therefore that men pray every where, lifting up holy hands, without wrath and doubting. In like manner also, that women adorn themselves in modest apparel, with shamefacedness and sobriety; not with broided hair, or gold, or pearls, or costly array; But (which becometh women professing godliness) with good works. Let the woman learn in silence with all subjection. But I suffer not a woman to teach, nor to usurp authority over the man, but to be in silence. For Adam was first formed, then Eve. And Adam was not deceived, but the woman being deceived was in the transgression. Notwithstanding she shall be saved in childbearing, if they continue in faith and charity and holiness with sobriety.</p>
+
+<h2 class="heading" id="qualifications-for-overseers">Qualifications for Overseers <a class="marker" href="#qualifications-for-overseers">¶</a></h2>
+
+<h4 class="passage">1 Timothy 3:1–7</h4>
+
+<h5 class="themes">The qualifications and behaviour of gospel bishops.</h5>
+
+<p>This is a true saying, If a man desire the office of a bishop, he desireth a good work. A bishop then must be blameless, the husband of one wife, vigilant, sober, of good behaviour, given to hospitality, apt to teach; Not given to wine, no striker, not greedy of filthy lucre; but patient, not a brawler, not covetous; One that ruleth well his own house, having his children in subjection with all gravity; (For if a man know not how to rule his own house, how shall he take care of the church of God?) Not a novice, lest being lifted up with pride he fall into the condemnation of the devil. Moreover he must have a good report of them which are without; lest he fall into reproach and the snare of the devil. Likewise must the deacons be grave, not doubletongued, not given to much wine, not greedy of filthy lucre; Holding the mystery of the faith in a pure conscience. And let these also first be proved; then let them use the office of a deacon, being found blameless. Even so must their wives be grave, not slanderers, sober, faithful in all things. Let the deacons be the husbands of one wife, ruling their children and their own houses well. For they that have used the office of a deacon well purchase to themselves a good degree, and great boldness in the faith which is in Christ Jesus. These things write I unto thee, hoping to come unto thee shortly: But if I tarry long, that thou mayest know how thou oughtest to behave thyself in the house of God, which is the church of the living God, the pillar and ground of the truth. And without controversy great is the mystery of godliness: God was manifest in the flesh, justified in the Spirit, seen of angels, preached unto the Gentiles, believed on in the world, received up into glory.</p>
+
+<h2 class="heading" id="qualifications-for-deacons">Qualifications for Deacons <a class="marker" href="#qualifications-for-deacons">¶</a></h2>
+
+<h4 class="passage">1 Timothy 3:8–13</h4>
+
+<h5 class="themes">And of deacons and their wives.</h5>
+
+<p>This is a true saying, If a man desire the office of a bishop, he desireth a good work. A bishop then must be blameless, the husband of one wife, vigilant, sober, of good behaviour, given to hospitality, apt to teach; Not given to wine, no striker, not greedy of filthy lucre; but patient, not a brawler, not covetous; One that ruleth well his own house, having his children in subjection with all gravity; (For if a man know not how to rule his own house, how shall he take care of the church of God?) Not a novice, lest being lifted up with pride he fall into the condemnation of the devil. Moreover he must have a good report of them which are without; lest he fall into reproach and the snare of the devil. Likewise must the deacons be grave, not doubletongued, not given to much wine, not greedy of filthy lucre; Holding the mystery of the faith in a pure conscience. And let these also first be proved; then let them use the office of a deacon, being found blameless. Even so must their wives be grave, not slanderers, sober, faithful in all things. Let the deacons be the husbands of one wife, ruling their children and their own houses well. For they that have used the office of a deacon well purchase to themselves a good degree, and great boldness in the faith which is in Christ Jesus. These things write I unto thee, hoping to come unto thee shortly: But if I tarry long, that thou mayest know how thou oughtest to behave thyself in the house of God, which is the church of the living God, the pillar and ground of the truth. And without controversy great is the mystery of godliness: God was manifest in the flesh, justified in the Spirit, seen of angels, preached unto the Gentiles, believed on in the world, received up into glory.</p>
+
+<h2 class="heading" id="the-mystery-of-godliness-described">The Mystery of Godliness Described <a class="marker" href="#the-mystery-of-godliness-described">¶</a></h2>
+
+<h4 class="passage">1 Timothy 3:14–16</h4>
+
+<h5 class="themes">The reason of writing about these, and other church affairs.</h5>
+
+<p>This is a true saying, If a man desire the office of a bishop, he desireth a good work. A bishop then must be blameless, the husband of one wife, vigilant, sober, of good behaviour, given to hospitality, apt to teach; Not given to wine, no striker, not greedy of filthy lucre; but patient, not a brawler, not covetous; One that ruleth well his own house, having his children in subjection with all gravity; (For if a man know not how to rule his own house, how shall he take care of the church of God?) Not a novice, lest being lifted up with pride he fall into the condemnation of the devil. Moreover he must have a good report of them which are without; lest he fall into reproach and the snare of the devil. Likewise must the deacons be grave, not doubletongued, not given to much wine, not greedy of filthy lucre; Holding the mystery of the faith in a pure conscience. And let these also first be proved; then let them use the office of a deacon, being found blameless. Even so must their wives be grave, not slanderers, sober, faithful in all things. Let the deacons be the husbands of one wife, ruling their children and their own houses well. For they that have used the office of a deacon well purchase to themselves a good degree, and great boldness in the faith which is in Christ Jesus. These things write I unto thee, hoping to come unto thee shortly: But if I tarry long, that thou mayest know how thou oughtest to behave thyself in the house of God, which is the church of the living God, the pillar and ground of the truth. And without controversy great is the mystery of godliness: God was manifest in the flesh, justified in the Spirit, seen of angels, preached unto the Gentiles, believed on in the world, received up into glory.</p>
+
+<h2 class="heading" id="the-coming-apostasy">The Coming Apostasy <a class="marker" href="#the-coming-apostasy">¶</a></h2>
+
+<h4 class="passage">1 Timothy 4:1–5</h4>
+
+<h5 class="themes">Of departures from the faith that began already to appear.</h5>
+
+<p>Now the Spirit speaketh expressly, that in the latter times some shall depart from the faith, giving heed to seducing spirits, and doctrines of devils; Speaking lies in hypocrisy; having their conscience seared with a hot iron; Forbidding to marry, and commanding to abstain from meats, which God hath created to be received with thanksgiving of them which believe and know the truth. For every creature of God is good, and nothing to be refused, if it be received with thanksgiving: For it is sanctified by the word of God and prayer. If thou put the brethren in remembrance of these things, thou shalt be a good minister of Jesus Christ, nourished up in the words of faith and of good doctrine, whereunto thou hast attained. But refuse profane and old wives’ fables, and exercise thyself rather unto godliness. For bodily exercise profiteth little: but godliness is profitable unto all things, having promise of the life that now is, and of that which is to come. This is a faithful saying and worthy of all acceptation. For therefore we both labour and suffer reproach, because we trust in the living God, who is the Saviour of all men, specially of those that believe.</p>
+
+<h2 class="heading" id="the-good-servant-of-christ">The Good Servant of Christ <a class="marker" href="#the-good-servant-of-christ">¶</a></h2>
+
+<h4 class="passage">1 Timothy 4:6–16</h4>
+
+<h5 class="themes">Several directions, with motives for due discharge of duties.</h5>
+
+<p>Now the Spirit speaketh expressly, that in the latter times some shall depart from the faith, giving heed to seducing spirits, and doctrines of devils; Speaking lies in hypocrisy; having their conscience seared with a hot iron; Forbidding to marry, and commanding to abstain from meats, which God hath created to be received with thanksgiving of them which believe and know the truth. For every creature of God is good, and nothing to be refused, if it be received with thanksgiving: For it is sanctified by the word of God and prayer. If thou put the brethren in remembrance of these things, thou shalt be a good minister of Jesus Christ, nourished up in the words of faith and of good doctrine, whereunto thou hast attained. But refuse profane and old wives’ fables, and exercise thyself rather unto godliness. For bodily exercise profiteth little: but godliness is profitable unto all things, having promise of the life that now is, and of that which is to come. This is a faithful saying and worthy of all acceptation. For therefore we both labour and suffer reproach, because we trust in the living God, who is the Saviour of all men, specially of those that believe.</p>
+
+<p>These things command and teach. Let no man despise thy youth; but be thou an example of the believers, in word, in conversation, in charity, in spirit, in faith, in purity. Till I come, give attendance to reading, to exhortation, to doctrine. Neglect not the gift that is in thee, which was given thee by prophecy, with the laying on of the hands of the presbytery. Meditate upon these things; give thyself wholly to them; that thy profiting may appear to all. Take heed unto thyself, and unto the doctrine; continue in them: for in doing this thou shalt both save thyself, and them that hear thee.</p>
+
+<h2 class="heading" id="instructions-about-widows">Instructions About Widows <a class="marker" href="#instructions-about-widows">¶</a></h2>
+
+<h4 class="passage">1 Timothy 5:1–16</h4>
+
+<h5 class="themes">Directions as to the elder and younger men and women. And as to poor widows. Concerning widows.</h5>
+
+<p>Rebuke not an elder, but intreat him as a father; and the younger men as brethren; The elder women as mothers; the younger as sisters, with all purity. Honour widows that are widows indeed. But if any widow have children or nephews, let them learn first to shew piety at home, and to requite their parents: for that is good and acceptable before God. Now she that is a widow indeed, and desolate, trusteth in God, and continueth in supplications and prayers night and day. But she that liveth in pleasure is dead while she liveth. And these things give in charge, that they may be blameless. But if any provide not for his own, and specially for those of his own house, he hath denied the faith, and is worse than an infidel. Let not a widow be taken into the number under threescore years old, having been the wife of one man, Well reported of for good works; if she have brought up children, if she have lodged strangers, if she have washed the saints’ feet, if she have relieved the afflicted, if she have diligently followed every good work. But the younger widows refuse: for when they have begun to wax wanton against Christ, they will marry; Having damnation, because they have cast off their first faith. And withal they learn to be idle, wandering about from house to house; and not only idle, but tattlers also and busybodies, speaking things which they ought not. I will therefore that the younger women marry, bear children, guide the house, give none occasion to the adversary to speak reproachfully. For some are already turned aside after Satan. If any man or woman that believeth have widows, let them relieve them, and let not the church be charged; that it may relieve them that are widows indeed. Let the elders that rule well be counted worthy of double honour, especially they who labour in the word and doctrine. For the scripture saith, Thou shalt not muzzle the ox that treadeth out the corn. And, The labourer is worthy of his reward. Against an elder receive not an accusation, but before two or three witnesses. Them that sin rebuke before all, that others also may fear. I charge thee before God, and the Lord Jesus Christ, and the elect angels, that thou observe these things without preferring one before another, doing nothing by partiality. Lay hands suddenly on no man, neither be partaker of other men’s sins: keep thyself pure. Drink no longer water, but use a little wine for thy stomach’s sake and thine often infirmities. Some men’s sins are open beforehand, going before to judgment; and some men they follow after. Likewise also the good works of some are manifest beforehand; and they that are otherwise cannot be hid.</p>
+
+<h2 class="heading" id="honoring-worthy-elders-and-dealing-with-sinners">Honoring Worthy Elders and Dealing With Sinners <a class="marker" href="#honoring-worthy-elders-and-dealing-with-sinners">¶</a></h2>
+
+<h4 class="passage">1 Timothy 5:17–25</h4>
+
+<h5 class="themes">The respect to be paid to elders. Timothy is to take care in rebuking offenders, in ordaining ministers, and as to his own health.</h5>
+
+<p>Rebuke not an elder, but intreat him as a father; and the younger men as brethren; The elder women as mothers; the younger as sisters, with all purity. Honour widows that are widows indeed. But if any widow have children or nephews, let them learn first to shew piety at home, and to requite their parents: for that is good and acceptable before God. Now she that is a widow indeed, and desolate, trusteth in God, and continueth in supplications and prayers night and day. But she that liveth in pleasure is dead while she liveth. And these things give in charge, that they may be blameless. But if any provide not for his own, and specially for those of his own house, he hath denied the faith, and is worse than an infidel. Let not a widow be taken into the number under threescore years old, having been the wife of one man, Well reported of for good works; if she have brought up children, if she have lodged strangers, if she have washed the saints’ feet, if she have relieved the afflicted, if she have diligently followed every good work. But the younger widows refuse: for when they have begun to wax wanton against Christ, they will marry; Having damnation, because they have cast off their first faith. And withal they learn to be idle, wandering about from house to house; and not only idle, but tattlers also and busybodies, speaking things which they ought not. I will therefore that the younger women marry, bear children, guide the house, give none occasion to the adversary to speak reproachfully. For some are already turned aside after Satan. If any man or woman that believeth have widows, let them relieve them, and let not the church be charged; that it may relieve them that are widows indeed. Let the elders that rule well be counted worthy of double honour, especially they who labour in the word and doctrine. For the scripture saith, Thou shalt not muzzle the ox that treadeth out the corn. And, The labourer is worthy of his reward. Against an elder receive not an accusation, but before two or three witnesses. Them that sin rebuke before all, that others also may fear. I charge thee before God, and the Lord Jesus Christ, and the elect angels, that thou observe these things without preferring one before another, doing nothing by partiality. Lay hands suddenly on no man, neither be partaker of other men’s sins: keep thyself pure. Drink no longer water, but use a little wine for thy stomach’s sake and thine often infirmities. Some men’s sins are open beforehand, going before to judgment; and some men they follow after. Likewise also the good works of some are manifest beforehand; and they that are otherwise cannot be hid.</p>
+
+<h2 class="heading" id="slaves-and-masters-1">Slaves and Masters; False Teachers and the Love of Money <a class="marker" href="#slaves-and-masters-1">¶</a></h2>
+
+<h4 class="passage">1 Timothy 6:1–2</h4>
+
+<h5 class="themes">The duty of Christians towards believing, as well as other masters. The advantage of godliness with contentment.</h5>
+
+<p>Let as many servants as are under the yoke count their own masters worthy of all honour, that the name of God and his doctrine be not blasphemed. And they that have believing masters, let them not despise them, because they are brethren; but rather do them service, because they are faithful and beloved, partakers of the benefit. These things teach and exhort.</p>
+
+<p>If any man teach otherwise, and consent not to wholesome words, even the words of our Lord Jesus Christ, and to the doctrine which is according to godliness; He is proud, knowing nothing, but doting about questions and strifes of words, whereof cometh envy, strife, railings, evil surmisings, Perverse disputings of men of corrupt minds, and destitute of the truth, supposing that gain is godliness: from such withdraw thyself. But godliness with contentment is great gain. For we brought nothing into this world, and it is certain we can carry nothing out. And having food and raiment let us be therewith content. But they that will be rich fall into temptation and a snare, and into many foolish and hurtful lusts, which drown men in destruction and perdition. For the love of money is the root of all evil: which while some coveted after, they have erred from the faith, and pierced themselves through with many sorrows. But thou, O man of God, flee these things; and follow after righteousness, godliness, faith, love, patience, meekness. Fight the good fight of faith, lay hold on eternal life, whereunto thou art also called, and hast professed a good profession before many witnesses. I give thee charge in the sight of God, who quickeneth all things, and before Christ Jesus, who before Pontius Pilate witnessed a good confession; That thou keep this commandment without spot, unrebukeable, until the appearing of our Lord Jesus Christ: Which in his times he shall shew, who is the blessed and only Potentate, the King of kings, and Lord of lords; Who only hath immortality, dwelling in the light which no man can approach unto; whom no man hath seen, nor can see: to whom be honour and power everlasting. Amen. Charge them that are rich in this world, that they be not highminded, nor trust in uncertain riches, but in the living God, who giveth us richly all things to enjoy; That they do good, that they be rich in good works, ready to distribute, willing to communicate; Laying up in store for themselves a good foundation against the time to come, that they may lay hold on eternal life. O Timothy, keep that which is committed to thy trust, avoiding profane and vain babblings, and oppositions of science falsely so called: Which some professing have erred concerning the faith. Grace be with thee. Amen.</p>
+
+<h2 class="heading" id="renewed-charge-to-timothy">Renewed Charge to Timothy <a class="marker" href="#renewed-charge-to-timothy">¶</a></h2>
+
+<h4 class="passage">1 Timothy 6:11–16</h4>
+
+<h5 class="themes">A solemn charge to Timothy to be faithful.</h5>
+
+<p>If any man teach otherwise, and consent not to wholesome words, even the words of our Lord Jesus Christ, and to the doctrine which is according to godliness; He is proud, knowing nothing, but doting about questions and strifes of words, whereof cometh envy, strife, railings, evil surmisings, Perverse disputings of men of corrupt minds, and destitute of the truth, supposing that gain is godliness: from such withdraw thyself. But godliness with contentment is great gain. For we brought nothing into this world, and it is certain we can carry nothing out. And having food and raiment let us be therewith content. But they that will be rich fall into temptation and a snare, and into many foolish and hurtful lusts, which drown men in destruction and perdition. For the love of money is the root of all evil: which while some coveted after, they have erred from the faith, and pierced themselves through with many sorrows. But thou, O man of God, flee these things; and follow after righteousness, godliness, faith, love, patience, meekness. Fight the good fight of faith, lay hold on eternal life, whereunto thou art also called, and hast professed a good profession before many witnesses. I give thee charge in the sight of God, who quickeneth all things, and before Christ Jesus, who before Pontius Pilate witnessed a good confession; That thou keep this commandment without spot, unrebukeable, until the appearing of our Lord Jesus Christ: Which in his times he shall shew, who is the blessed and only Potentate, the King of kings, and Lord of lords; Who only hath immortality, dwelling in the light which no man can approach unto; whom no man hath seen, nor can see: to whom be honour and power everlasting. Amen. Charge them that are rich in this world, that they be not highminded, nor trust in uncertain riches, but in the living God, who giveth us richly all things to enjoy; That they do good, that they be rich in good works, ready to distribute, willing to communicate; Laying up in store for themselves a good foundation against the time to come, that they may lay hold on eternal life. O Timothy, keep that which is committed to thy trust, avoiding profane and vain babblings, and oppositions of science falsely so called: Which some professing have erred concerning the faith. Grace be with thee. Amen.</p>
+
+<h2 class="heading" id="instructions-to-the-rich">Instructions to the Rich; Final Charge and Benediction <a class="marker" href="#instructions-to-the-rich">¶</a></h2>
+
+<h4 class="passage">1 Timothy 6:17–19</h4>
+
+<h5 class="themes">The apostle repeats his warning to the rich, and closes with a blessing.</h5>
+
+<p>If any man teach otherwise, and consent not to wholesome words, even the words of our Lord Jesus Christ, and to the doctrine which is according to godliness; He is proud, knowing nothing, but doting about questions and strifes of words, whereof cometh envy, strife, railings, evil surmisings, Perverse disputings of men of corrupt minds, and destitute of the truth, supposing that gain is godliness: from such withdraw thyself. But godliness with contentment is great gain. For we brought nothing into this world, and it is certain we can carry nothing out. And having food and raiment let us be therewith content. But they that will be rich fall into temptation and a snare, and into many foolish and hurtful lusts, which drown men in destruction and perdition. For the love of money is the root of all evil: which while some coveted after, they have erred from the faith, and pierced themselves through with many sorrows. But thou, O man of God, flee these things; and follow after righteousness, godliness, faith, love, patience, meekness. Fight the good fight of faith, lay hold on eternal life, whereunto thou art also called, and hast professed a good profession before many witnesses. I give thee charge in the sight of God, who quickeneth all things, and before Christ Jesus, who before Pontius Pilate witnessed a good confession; That thou keep this commandment without spot, unrebukeable, until the appearing of our Lord Jesus Christ: Which in his times he shall shew, who is the blessed and only Potentate, the King of kings, and Lord of lords; Who only hath immortality, dwelling in the light which no man can approach unto; whom no man hath seen, nor can see: to whom be honour and power everlasting. Amen. Charge them that are rich in this world, that they be not highminded, nor trust in uncertain riches, but in the living God, who giveth us richly all things to enjoy; That they do good, that they be rich in good works, ready to distribute, willing to communicate; Laying up in store for themselves a good foundation against the time to come, that they may lay hold on eternal life. O Timothy, keep that which is committed to thy trust, avoiding profane and vain babblings, and oppositions of science falsely so called: Which some professing have erred concerning the faith. Grace be with thee. Amen.</p>
+
+<ul class="nav my-3">
+  <li class="nav-item"><a class="nav-link" href="./2-thessalonians.html">2 Thessalonians</a></li>
+  <li class="nav-item"><a class="nav-link" href="./">Table of Contents</a></li>
+  <li class="nav-item"><a class="nav-link" href="./2-timothy.html">2 Timothy</a></li>
+</ul>
+
+---
+
+<div class="small-print">
+
+<p>Scripture text is from the King James Version (KJV) or Authorized Version of
+the Holy Bible, using the standardized text of 1769, courtesy of <a
+href="https://ebible.org/kjv/">ebible.org</a>.</p>
+
+<p>Public Domain, except in the United Kingdom. Letters patent issued by King
+James with no expiration date means that to print this translation in the
+United Kingdom or import printed copies into the UK, you need
+permission. Currently, the Cambridge University Press, the Oxford University
+Press, and Collins have the exclusive right to print this Bible translation in
+the UK. This royal decree has no effect outside of the UK, where this work is
+firmly in the Public Domain. Please see
+<a href="http://www.cambridge.org/about-us/who-we-are/queens-printers-patent">Cambridge University Press</a>
+and <a href="https://en.wikipedia.org/wiki/King_James_Version#Copyright_status">Wikipedia</a>
+for more information.</p>
+
+<p>Section headings are from the
+<a href="http://LexhamEnglishBible.com">Lexham English Bible</a>.
+Copyright 2012 <a href="http://logos.com">Logos Bible Software</a>. Lexham is a
+registered trademark of Logos Bible Software. Section headings are specifically
+exempt from the site-wide Creative Commons License, and are used only
+<a href="http://lexhamenglishbible.com/license/">with special permission</a> from
+Logos Bible Software.</p>
+
+<p>Book introductions and section themes are from <cite>Matthew Henry's Concise
+Commentary on the Bible</cite>, courtesy of
+<a href="https://www.ccel.org/ccel/henry/mhcc">Christian Classics Ethereal Library</a>.
+Public Domain.</p>
+
+<p>"Popular Selections" based on <a href="https://www.openbible.info/labs/kids-bible-stories/">Most-Popular Kids’ Bible Stories</a> courtesy of <a href="https://www.openbible.info/">OpenBible.info</a>.</p>
+
+</div>

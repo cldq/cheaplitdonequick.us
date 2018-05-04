@@ -1,0 +1,19 @@
+published: yes
+hidden: no
+
+final_domain: "https://cheaplitdonequick.us"
+
+s3_bucket: s3://cheaplitdonequick.us
+cloudfront_distribution: E2UIDKML5QSNHX
+aws_profile: storypatron
+
+
+enable_comments: no
+enable_subscribe_form: no
+
+
+images:
+  default:
+    convert:
+      - "-resize 450x700>"
+      - "-quality 60"

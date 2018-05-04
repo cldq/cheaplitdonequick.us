@@ -1,0 +1,61 @@
+@import 'https://fonts.googleapis.com/css?family=Lora|Playfair+Display';
+
+
+body {
+  font-family: 'Lora', Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif;
+  line-height: 1.6;
+  color: #552700;
+  box-sizing: border-box;
+}
+
+/* Typography
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+h1, h2, h3, h4, h5, h6, b, strong, label {
+  font-family: 'Playfair Display', Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif;
+}
+
+.sans {
+  font-family: Frutiger, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+main * {
+  max-width: 30rem;
+}
+
+main h1, main h2 {
+  max-width: none;
+}
+
+main p {
+  hyphens: auto;
+}
+
+main hr {
+  margin-left: 0;
+}
+
+
+.marker {
+  font-family: Georgia, serif;
+  color: grey;
+  text-decoration: none;
+  opacity: 0;
+}
+.marker:hover {
+  text-decoration: none;
+}
+*:hover > .marker {
+  opacity: 1;
+}
+
+.small-print {
+  font-size: 0.8em;
+}
+
+sup + sup::before {
+  content: ", ";
+}
+
+sup {
+  cursor: help;
+}

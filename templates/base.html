@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="en-us">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">  
+  <title>
+    {% block page_title %}{{ title }}{% endblock %}
+    —
+    {% block site_title %}{{ site_title }}{% endblock %}</title>  
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+  <link rel="stylesheet" href="/assets/styles/style.css">
+  <style type="text/css">{% block page_style %}{% endblock %}</style>
+  <link rel="canonical" href="{{ this.canonical_url }}" />
+  <meta name="description" content="{% block meta_desc %}{{ summary | htmlify | strip_tags | forceescape | trim }}{% endblock %}">
+  
+  <!-- http://realfavicongenerator.net/ -->
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/favicons/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicons/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicons/favicon-16x16.png">
+  <link rel="manifest" href="/assets/favicons/site.webmanifest">
+  <link rel="mask-icon" href="/assets/favicons/safari-pinned-tab.svg" color="#5bbad5">
+  <link rel="shortcut icon" href="/assets/favicons/favicon.ico">
+  <meta name="msapplication-TileColor" content="#2d89ef">
+  <meta name="msapplication-config" content="/assets/favicons/browserconfig.xml">
+  <meta name="theme-color" content="#ffffff">
+
+  {% include 'head-tags.html' %}
+</head>
+<body>
+  <header class="mb-5">
+    <nav class="navbar navbar-light bg-light">
+      <div class="container">
+        <a class="navbar-brand" href="/">
+          <img src="/assets/images/CLDQ.svg" height="90"
+               alt="Cheap Lit Done Quick"
+               class="u-round u-border" />
+        </a>
+      </div>
+    </nav>
+    <nav class="navbar navbar-light bg-light">
+      <div class="container">
+        <ul class="navbar-nav">
+          {% for href, title in [
+          ['/kjv/', 'King James Bible']
+          ] %}
+          <li class="nav-item{% if this.base_url.startswith(href) %} active{% endif
+                     %}"><a class="nav-link" href="{{ href }}/">{{ title }}</a></li>
+          {% endfor %}
+        </ul>
+      </div>
+    </nav>
+  </header>
+  <main>
+    <!--[if lt IE 8]>
+      <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
+    <![endif]-->
+    {% block body %}
+    {% if title %}
+    <div class="container">
+      <h1>{{ title }}</h1>
+    </div>
+    {% endif %}
+    {% if summary %}
+    <div class="container">
+
+    {{ summary | htmlify | typogrify }}
+    </div>
+    {% endif %}
+    <div class="container">
+    {{ body | htmlify | typogrify }}
+    </div>
+    {% endblock %}
+
+  </main>
+  <footer>
+    <div class="container">
+      <hr />
+      <div class="small-print">
+        <p>Site copyright &copy; 2018 by Worlds Enough Studios. Some rights reserved.</p>
+        <p>This site is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</p>
+        <p><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a></p>
+        <p><a href="https://thenounproject.com/icon/1122699/">Open Book icon</a> by <a href="https://thenounproject.com/crosswellrob/">Rob Crosswell</a> from the Noun Project</p>
+      </div>
+    </div>
+  </footer>
+
+  {% include 'foot-tags.html' %}
+  {% block post_foot_tags %}{% endblock %}
+  <script async src='/assets/scripts/autotrack.custom.js'></script>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-49443460-6"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-49443460-6');
+  </script>
+</body>
+</html>

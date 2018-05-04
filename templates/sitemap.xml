@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+{%- for source, record in this.env.site_plan|dictsort -%}
+  {%- if record.target.ext == '.html'
+      and not record.config.draft
+      and not record.config.hidden
+      and (
+        record.config.publish_on is none
+        or record.config.publish_on <= now
+      )
+      %}
+  <url><loc>{{ record.canonical_url }}</loc></url>
+  {%- endif -%}
+{%- endfor %}
+</urlset>
