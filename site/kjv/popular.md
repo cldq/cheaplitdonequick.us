@@ -548,5 +548,5 @@ title: "Popular Bible Selections"
 ---
 
 <div class="small-print">
-
-<p>Based on <a href="https://www.openbible.info/labs/kids-bible-stories/">Most-Popular Kids’ Bible Stories</a> courtesy of <a href="https://www.openbible.info/">OpenBible.info</a>.</p>
+<p>See the <a href="./acknowledgements.html">Acknowledgements</a> for sources and licensing.</p>
+</div>

@@ -89,20 +89,5 @@ title: "The Translators to the Reader: Preface to the King James Version of 1611
 ---
 
 <div class="small-print">
-
-<p>Text is from the King James Version (KJV) or Authorized Version of the Holy
-Bible, using the standardized text of 1769, courtesy of
-<a href="https://ebible.org/kjv/">ebible.org</a>.</p>
-
-<p>Public Domain, except in the United Kingdom. Letters patent issued by King
-James with no expiration date means that to print this translation in the
-United Kingdom or import printed copies into the UK, you need
-permission. Currently, the Cambridge University Press, the Oxford University
-Press, and Collins have the exclusive right to print this Bible translation in
-the UK. This royal decree has no effect outside of the UK, where this work is
-firmly in the Public Domain. Please see
-<a href="http://www.cambridge.org/about-us/who-we-are/queens-printers-patent">Cambridge University Press</a>
-and <a href="https://en.wikipedia.org/wiki/King_James_Version#Copyright_status">Wikipedia</a>
-for more information.</p>
-
+<p>See the <a href="./acknowledgements.html">Acknowledgements</a> for sources and licensing.</p>
 </div>
