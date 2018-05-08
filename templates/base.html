@@ -42,9 +42,10 @@
     </nav>
     <nav class="navbar navbar-light bg-light">
       <div class="container">
-        <ul class="navbar-nav">
+        <ul class="nav">
           {% for href, title in [
-          ['/kjv/', 'King James Bible']
+          ['/kjv/', 'King James Bible'],
+          ['/aesop/', 'Æsop'],
           ] %}
           <li class="nav-item{% if this.base_url.startswith(href) %} active{% endif
                      %}"><a class="nav-link" href="{{ href }}/">{{ title }}</a></li>
@@ -61,6 +62,9 @@
     {% if title %}
     <div class="container mb-4">
       <h1>{{ title }}</h1>
+      {%- if subtitle %}
+      <h2>{{ subtitle }}</h2>
+      {%- endif %}
     </div>
     {% endif %}
     {% if summary %}

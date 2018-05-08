@@ -52,4 +52,5 @@ nice finish on it, and presenting it to you, dear reader, for your edification.
 
 What we've got so far:
 
-[The Holy Bible, King James Version](./kjv/)
+- [The Holy Bible, King James Version](./kjv/)
+- [The Æsop For Children, by Æsop](./aesop/)
