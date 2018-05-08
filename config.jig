@@ -1,6 +1,7 @@
 published: yes
 hidden: no
 
+site_title: "Cheap Lit, Done Quick!"
 final_domain: "https://cheaplitdonequick.us"
 
 s3_bucket: s3://cheaplitdonequick.us
