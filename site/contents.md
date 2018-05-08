@@ -2,6 +2,8 @@
 title: Cheap Lit Done Quick!
 ---
 
+[A warning from Rudyard Kipling](./copybook-headings.html).
+
 ## Because you didn't know how much you needed the Western Canon.
 
 We live in an age, you and I, when the Traditions of the West have been
@@ -52,5 +54,6 @@ nice finish on it, and presenting it to you, dear reader, for your edification.
 
 What we've got so far:
 
+- [Gods of the Copybook Headings](./copybook-headings.html)
 - [The Holy Bible, King James Version](./kjv/)
 - [The Æsop For Children, by Æsop](./aesop/)

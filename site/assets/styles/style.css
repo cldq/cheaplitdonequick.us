@@ -19,7 +19,10 @@ h1, h2, h3, h4, h5, h6, b, strong, label {
 }
 
 main * {
-  max-width: 30rem;
+  max-width: 32rem;
+}
+main .poem, main .poem * {
+  max-width: none;
 }
 
 main h1, main h2 {
@@ -62,4 +65,16 @@ sup {
 
 a {
   hyphens: none;
+}
+
+.poem .stanza {
+  margin-bottom: 1em;
+}
+.poem .line {
+  margin: 0;
+  margin-left: 2em;
+  text-indent: -2em;
+}
+.poem h1 {
+  font-size: 2rem;
 }
